@@ -107,7 +107,7 @@ The goal of this dashboard is to help users explore trends in the food industry,
 
 ## 🙏 Acknowledgement
 
-This has been inspired from from @virajbhutada https://github.com/virajbhutada/bi-projects-collection/tree/main
+This has been inspired from @virajbhutada https://github.com/virajbhutada/bi-projects-collection/tree/main
 
 ---
 
