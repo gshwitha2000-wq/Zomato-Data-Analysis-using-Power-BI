@@ -107,7 +107,7 @@ The goal of this dashboard is to help users explore trends in the food industry,
 
 ## 🙏 Acknowledgement
 
-This has been taken from @virajbhutada https://github.com/virajbhutada/bi-projects-collection/tree/main
+This has been inspired from from @virajbhutada https://github.com/virajbhutada/bi-projects-collection/tree/main
 
 ---
 
@@ -115,8 +115,4 @@ This has been taken from @virajbhutada https://github.com/virajbhutada/bi-projec
 
 For feedback or collaboration, feel free to reach out at https://www.linkedin.com/in/ashwitha-gogikar-35839a1b5/
 
----
 
-**⭐ If you find this project useful, consider giving it a star!**
-
-If you want, I can also tailor this README for GitHub (with badges, screenshots, and deployment steps).
